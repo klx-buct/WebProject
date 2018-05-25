@@ -12,3 +12,4 @@ What’s more, when the user input their departure place, destination and travel
 
 Finally, tips can offer some useful tips about campus, for example, “Cause the sunny day, remember to take an umbrella!”
 ![](https://github.com/klx-buct/WebProject/tree/resource/images/nankou.png)
+![baidu](http://www.baidu.com/img/bdlogo.gif)
