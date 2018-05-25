@@ -11,5 +11,5 @@ Second interface is Carpool interface. It allows user to release their own carpo
 What’s more, when the user input their departure place, destination and travel time, travel interface will show three ways, the shortest way, the cheapest path and the shortest-time way.
 
 Finally, tips can offer some useful tips about campus, for example, “Cause the sunny day, remember to take an umbrella!”
-![](https://github.com/klx-buct/WebProject/tree/resource/images/nankou.png)
+![](https://github.com/klx-buct/WebProject/tree/raw/resource/images/nankou.png)
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
